@@ -1,4 +1,4 @@
-Application Development notes
+Application Development
 +++++++++++++++++++++
 
 -> Collection of programs is called as software project
